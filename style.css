@@ -1,4 +1,7 @@
-
+body{
+	font-size: 16px;
+	font-family: 'Exo 2', sans-serif;
+}
 .container-fluid{
 	margin: 0;
 	padding: 0;
@@ -45,9 +48,9 @@
   margin-bottom: 15px;
   text-align: center;
   color: black;
-  font-size: 50px;
-  font-family: "Comic Sans MS", cursive, sans-serif;
-  font-weight: bold;
+  font-size: 16px;	
+  font-family: 'Exo 2', sans-serif;
+  font-weight: bold
 }
 
 li{
