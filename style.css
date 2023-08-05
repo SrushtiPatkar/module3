@@ -23,6 +23,7 @@ color: black;
     color: white;
     font-size: 35px;
     font-weight: bold;
+	line-height: 52px;
 }
 
 .navbar-brand:hover{
