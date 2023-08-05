@@ -48,6 +48,13 @@ color: black;
 .navbar-toggle{
 	border: 2px solid white;
 	margin-right: 25px;
+	    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    border-radius: 4px;
 }
 
 .icon-bar{
