@@ -10,7 +10,14 @@ body{
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.8);
+	background-color: gray;
+	border-radius: 0;
+	border-top:3px solid black;
+	border-bottom:5px solid black;
+	border-right:0px solid black;
+	border-left:0px solid black;
+height:100px;
+color: black;
 }
 
 .navbar-brand{
